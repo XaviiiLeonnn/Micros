@@ -4,7 +4,7 @@ import sys
 import cv2
 from ultralytics import YOLO
 import paho.mqtt.client as mqtt
-
+#
 
 class BrokerConfig:
     HOST = "broker.hivemq.com"
